@@ -1,3 +1,3 @@
-# Linear Algebra Done Right - Axler (2nd Edition)
+# Real Analysis - Norman B. Haaser & Joseph A. Sullivan (1st Edition)
 
-This repository contains my detailed solutions and commentary on *Linear Algebra Done Right* by Sheldon Axler (2nd Edition).
+This repository contains my detailed solutions and commentary on *Real Analysis* by Norman B. Haaser & Joseph A. Sullivan (1st Edition).
