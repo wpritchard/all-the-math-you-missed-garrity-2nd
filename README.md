@@ -1,3 +1,3 @@
-# Real Analysis - Norman B. Haaser & Joseph A. Sullivan (1st Edition)
+# Topics in Algebra - I. N. Herstein (1st Edition)
 
-This repository contains my detailed solutions and commentary on *Real Analysis* by Norman B. Haaser & Joseph A. Sullivan (1st Edition).
+This repository contains my detailed solutions and commentary on *Topics in Algebra* by I. N. Herstein (1st Edition).
